@@ -1,6 +1,6 @@
 {
-  "id": "",
-  "title": "",
+  "id": "knowledge-revamped",
+  "title": "Knowledge Revamped",
   "version": "#{VERSION}#",
   "library": "false",
   "compatibility": {
@@ -20,7 +20,7 @@
       }
     }
   },
-  "description": "",
+  "description": "A series of modular variant rules to clarify gameplay around obtaining knowledge in Pathfinder Second Edition.",
   "authors": [
     {
       "name": "Teridax68",
@@ -29,9 +29,9 @@
   ],
   "packs": [
     {
-      "name": "",
-      "label": "",
-      "path": "packs/",
+      "name": "knowledge-revamped",
+      "label": "Knowledge Revamped",
+      "path": "packs/knowledge-revamped",
       "type": "Item",
       "system": "pf2e",
       "flags": {}
@@ -44,5 +44,5 @@
   "manifest": "#{MANIFEST}#",
   "download": "#{DOWNLOAD}#",
   "license": "LICENSE",
-  "readme": ""
+  "readme": "https://homebrewery.naturalcrit.com/share/e2kyv5B0YCDy"
 }
